@@ -1,9 +1,12 @@
-# Proyecto Aula
+# Proyecto Aula 2.0 Mejora
 ## Sistema de gestion de alumnos
 [Introduccion](#Introduccion)
 
 [Desarrollo](#Desarrollo)
 
-[Recursos](#Recursos)
+[Conclusion](#Conclusion)
 
-## Resultados
+[Analisis](#Analisis)
+
+## Analisis
+
